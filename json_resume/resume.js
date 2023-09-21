@@ -41,5 +41,5 @@ let resume={
 
 }
 for (let key in resume){
-    console.log(key);
+    console.log(key, resume[key]);
 }
